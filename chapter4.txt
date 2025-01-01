@@ -1,3 +1,5 @@
 This is chapter 4 on master branch.
 
 Testing for the story/feature branch
+
+This is an additional feature
