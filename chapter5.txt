@@ -1,1 +1,6 @@
 This is chapter 5.
+<<<<<<< HEAD
+=======
+
+New content to chapter 5.
+>>>>>>> story/feature
