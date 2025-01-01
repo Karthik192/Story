@@ -1,3 +1,3 @@
 This is chapter 5.
 
-Additional changes to chapter 5.
+New content to chapter 5.
